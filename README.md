@@ -2,4 +2,4 @@
 
 This is a awesome website
 
-Editing readme.md file
+Updating the readme.md file in the new branch
