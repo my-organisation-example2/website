@@ -8,6 +8,6 @@ Committing more tweaks in the readme.md file
 
 another added line
 
-## Purpose reposity 2
+## purpose Reposity
 
-in local repository to create conflicts
+Conflict is resolved
